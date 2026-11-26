@@ -4,6 +4,13 @@ All notable changes to `phil/commerce-subscription-bundle` will be documented in
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.2.1-alpha - 2026-11-26
+
+### Changed
+
+- Accepts `phil/ddd-bundle` 0.2 as well as 0.1 (`^0.1@dev || ^0.2@dev`), so that it installs beside the typed identifiers in
+  controllers and the Serializer.
+
 ## 0.2.0-alpha - 2026-11-24
 
 ### Added
